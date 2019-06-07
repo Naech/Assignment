@@ -60,8 +60,6 @@ public class HeartRate {
     }
 
     public int calculateAge() {
-        //System.out.print("Enter your age: ");
-        //int currentYear = input.nextInt();
         int age = 2019 - year; 
         return age;
     }
